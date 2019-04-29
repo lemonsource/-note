@@ -65,6 +65,6 @@ AOP框架创建的对象，包含通知。 在Spring中，AOP代理可以是JDK�
 
 为了解决这两个问题，Spring引入了注解，通过@XXX的方式，让注解与Java Bean 紧密结合，既大大减少了配置文件的体积，又增加了Java Bean 的可读性与内聚性。
 
-[参考：谈谈对Spring IOC的理解 孤傲苍狼](https://www.cnblogs.com/xdp-gacl/p/4249939.html)
-[参考：十分钟全面理解Spring AOP FX_SKY](https://www.jianshu.com/p/007bd6e1ba1b)
-[参考：Spring的@Autowired注解、@Resource注解、@Service注解](https://github.com/nnngu/LearningNotes/blob/master/Spring/04%20Spring%E7%9A%84%40Autowired%E6%B3%A8%E8%A7%A3%E3%80%81%40Resource%E6%B3%A8%E8%A7%A3%E3%80%81%40Service%E6%B3%A8%E8%A7%A3.md)
+[参考：谈谈对Spring IOC的理解 孤傲苍狼](https://www.cnblogs.com/xdp-gacl/p/4249939.html)</br>
+[参考：十分钟全面理解Spring AOP FX_SKY](https://www.jianshu.com/p/007bd6e1ba1b)</br>
+[参考：Spring的@Autowired注解、@Resource注解、@Service注解](https://github.com/nnngu/LearningNotes/blob/master/Spring/04%20Spring%E7%9A%84%40Autowired%E6%B3%A8%E8%A7%A3%E3%80%81%40Resource%E6%B3%A8%E8%A7%A3%E3%80%81%40Service%E6%B3%A8%E8%A7%A3.md)</br>
